@@ -1,0 +1,21 @@
+// media queries
+@mixin tablet {
+    @media screen and (min-width: 768px) {
+      @content;
+    }
+    // copy pasta ;) @include tablet {}
+  }
+  
+  @mixin desktop {
+    @media screen and (min-width: 1200px) {
+      @content;
+    }
+    // copy pasta ;) @include desktop {}
+  }
+  
+  //
+  @mixin t($fontSize, $lineHeight) {
+    font-size: $fontSize;
+    line-height: $lineHeight;
+    // copy pasta ;) @include t (,)
+  }

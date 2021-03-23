@@ -1,5 +1,8 @@
-.page__header {
+.header {
   display: flex;
-  justify-content: space-evenly;
-  margin-bottom: 3rem;
+  justify-content: center;
+  font-family: $font-main;
+  font-size: 20px;
+  color: $white;
+  height: 15vh;
 }

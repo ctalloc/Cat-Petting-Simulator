@@ -1,4 +1,5 @@
 @import 'core/variables';
+@import 'core/mixins';
 @import 'core/reset';
 @import 'components/code';
 @import 'components/links';
@@ -6,3 +7,8 @@
 @import 'layout/header';
 @import 'layout/footer';
 @import 'pages/index';
+
+.body {
+    background: linear-gradient($lilac, $lpink);
+    height: 100vh;
+}
