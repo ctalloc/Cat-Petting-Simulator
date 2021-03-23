@@ -5,4 +5,10 @@
   font-size: 20px;
   color: $white;
   height: 15vh;
+  @include tablet {
+    font-size: 40px;
+  }
+  @include desktop {
+    font-size: 60px;
+  }
 }

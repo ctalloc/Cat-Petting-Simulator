@@ -13,7 +13,7 @@
     margin: 0 30px;
   }
   @include desktop {
-    max-width: 1500px;
+    max-width: 1400px;
     margin: 0 auto;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1000px;
@@ -50,7 +50,7 @@
 //other style stuff
 
 .main {
-  font-family: $font-txt;
+  font-family: $font-main;
   color: $spink;
 }
 
@@ -64,8 +64,14 @@
 }
 
 .section__title {
-  font-size: 18px;
+  font-size: 22px;
   text-align: center;
+  @include tablet {
+    font-size: 30px;
+  }
+  @include desktop {
+    font-size: 45px;
+  }
 }
 
 .sectionTwo {
@@ -94,6 +100,9 @@
       font-size: 80px;
       line-height: 80px;
       border: 4px solid $lilac;
+    }
+    &:hover{
+        cursor: pointer;
     }
   }
 }
