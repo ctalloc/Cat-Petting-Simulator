@@ -121,3 +121,15 @@
     height: 350px;
   }
 }
+.displayImg {
+  width: inherit;
+  opacity: 100%;
+}
+
+.displayTxt {
+  margin-top: 20px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+  border: 1px solid $lilac;
+}
