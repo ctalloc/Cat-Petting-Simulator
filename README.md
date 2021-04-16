@@ -1,5 +1,6 @@
 
 
+![Cat Petting Simulator Banner](https://i.imgur.com/1WKBoiy.png)
 # :smile_cat: [Cat Petting Simulator](https://ctalloc.github.io/Cat-Petting-Simulator/) :smile_cat:
 
 This project is one of the first ideas I ever had while learning JS6. The idea was to make an (il)logical reaction structure of how a cat would react to receiving pets on different parts of their body depending on their mood. It is meant to be a very *casual, cute, fun oriented* website where I show a little bit of my thinking and style!
@@ -14,9 +15,10 @@ The Cat Petting Simulator:cat2: contains an invisible **Comfyness Counter** wher
 ### (What are those meme-like cat images/horrible cat drawings made with Paint?)
 
 The structure of the layout contains 3 main sections:
-- Reaction Display: this is where you can see the immediate reaction of the cat to your pets. This feature is still in progress and you can only see a Happy Cat reaction to some of the simplest functions. I decided to draw these with Paint as I liked the "naive" touch of my completely tasteless, bad drawing, and also because I got quite tired of looking for an emote set that I liked.
-- Petting Buttons: Pet Head, Pet Tummy and Pet Back. These are the 3 cat areas you can pet. Clicking on a button will trigger a small animation and have a somewhat unpredictable effect. Use at your own risk. 
+- Reaction Display: this is where you can see the immediate reaction of the cat to your pets. This feature is still in progress and you can only see a Happy Cat reaction to some of the simplest functions. I decided to draw these with Paint as I liked the "naive" touch of my completely tasteless, bad drawing, and also because I got quite tired of looking for an emote set that I liked. ![Happy Reaction Display](https://i.imgur.com/m7zQGe5.png)
+- Petting Buttons: Pet Head, Pet Tummy and Pet Back. These are the 3 cat areas you can pet. Clicking on a button will trigger a small animation and have a somewhat unpredictable effect. Use at your own risk. ![Petting Buttons](https://i.imgur.com/EuQGNP1.png)
 - Comfyness Meter: this section displays how comfy the cat is feeling depending on the numeric value of the Comfyness Counter. The user will not see the value, but will have different written messages and cat pictures displayed giving an idea of how happy and comfy the cat is with the pet session.
+![Neutral Comfyness Value Display](https://i.imgur.com/Z5TVSDC.png) ![Happy Comfyness Value Display](https://i.imgur.com/hbIffJL.png) ![Very Pleased Comfyness Value Display](https://i.imgur.com/dxdFuxw.png)
 
 ## But why? :scream:
 
