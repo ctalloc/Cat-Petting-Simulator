@@ -15,10 +15,10 @@ The Cat Petting Simulator:cat2: contains an invisible **Comfyness Counter** wher
 ### (What are those meme-like cat images/horrible cat drawings made with Paint?)
 
 The structure of the layout contains 3 main sections:
-- Reaction Display: this is where you can see the immediate reaction of the cat to your pets. This feature is still in progress and you can only see a Happy Cat reaction to some of the simplest functions. I decided to draw these with Paint as I liked the "naive" touch of my completely tasteless, bad drawing, and also because I got quite tired of looking for an emote set that I liked. ![Happy Reaction Display](https://i.imgur.com/m7zQGe5.png)
+- Reaction Display: this is where you can see the immediate reaction of the cat to your pets. This feature is still in progress and you can only see a Happy Cat reaction to some of the simplest functions. I decided to draw these with Paint as I liked the "naive" touch of my completely tasteless, bad drawing, and also because I got quite tired of looking for an emote set that I liked. 
 - Petting Buttons: Pet Head, Pet Tummy and Pet Back. These are the 3 cat areas you can pet. Clicking on a button will trigger a small animation and have a somewhat unpredictable effect. Use at your own risk. ![Petting Buttons](https://i.imgur.com/EuQGNP1.png)
 - Comfyness Meter: this section displays how comfy the cat is feeling depending on the numeric value of the Comfyness Counter. The user will not see the value, but will have different written messages and cat pictures displayed giving an idea of how happy and comfy the cat is with the pet session.
-![Neutral Comfyness Value Display](https://i.imgur.com/Z5TVSDC.png =50x50) ![Happy Comfyness Value Display](https://i.imgur.com/hbIffJL.png =50x50) ![Very Pleased Comfyness Value Display](https://i.imgur.com/dxdFuxw.png =50x50) 
+
 
 ## But why? :scream:
 
