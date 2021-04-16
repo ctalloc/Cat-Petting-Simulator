@@ -1,6 +1,6 @@
 
 
-# [Cat Petting Simulator] (https://ctalloc.github.io/Cat-Petting-Simulator/)
+# [Cat Petting Simulator](https://ctalloc.github.io/Cat-Petting-Simulator/)
 
 Ahoy! Este es nuestro Starter Kit creado en **node y gulp**. ¿Y qué es un Starter kit? Pues es una **plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas**.
 
