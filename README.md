@@ -19,7 +19,7 @@ The structure of the layout contains 3 main sections:
 <img src="https://i.imgur.com/m7zQGe5.png" width="200" height="200">
 - Petting Buttons: Pet Head, Pet Tummy and Pet Back. These are the 3 cat areas you can pet. Clicking on a button will trigger a small animation and have a somewhat unpredictable effect. Use at your own risk. ![Petting Buttons](https://i.imgur.com/EuQGNP1.png)
 - Comfyness Meter: this section displays how comfy the cat is feeling depending on the numeric value of the Comfyness Counter. The user will not see the value, but will have different written messages and cat pictures displayed giving an idea of how happy and comfy the cat is with the pet session.
-<img src="https://i.imgur.com/Z5TVSDC.png" width="120" height="140"> <img src="https://i.imgur.com/hbIffJL.png" width="120" height="140"> <img src="https://i.imgur.com/dxdFuxw.png" width="120" height="140"> 
+<p float="left"><img src="https://i.imgur.com/Z5TVSDC.png" width="120" height="140"> <img src="https://i.imgur.com/hbIffJL.png" width="120" height="140"> <img src="https://i.imgur.com/dxdFuxw.png" width="120" height="140"> </p>
 
 ## But why? :scream:
 
