@@ -87,6 +87,9 @@
     font-size: 30px;
     line-height: 30px;
     color: $purple;
+    &:active {
+      transform: scale(1.02);
+    }
     @include tablet {
       height: 160px;
       width: 160px;
@@ -128,8 +131,9 @@
 
 .displayTxt {
   margin-top: 20px;
+  padding: 10px;
   text-align: center;
-  line-height: 40px;
-  font-size: 20px;
-  border: 1px solid $lilac;
+  line-height: 32px;
+  font-size: 32px;
+  border: 2px solid $lilac;
 }
