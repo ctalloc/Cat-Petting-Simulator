@@ -3,7 +3,7 @@
 ![Cat Petting Simulator Banner](https://i.imgur.com/1WKBoiy.png)
 # :smile_cat: [Cat Petting Simulator](https://ctalloc.github.io/Cat-Petting-Simulator/) :smile_cat:
 
-This project is one of the first ideas I ever had while learning JS6. The idea was to make an (il)logical reaction structure of how a cat would react to receiving pets on different parts of their body depending on their mood. It is meant to be a very *casual, cute, fun oriented* website where I show a little bit of my thinking and style!
+This project-in-progress starts from one of the first ideas I ever had while learning JS6. The idea was to make an (il)logical reaction structure of how a cat would react to receiving pets on different parts of their body depending on their mood. It is meant to be a very *casual, cute, fun oriented* website where I show a little bit of my thinking and style!
 
 ## How does it work? :question:
 
