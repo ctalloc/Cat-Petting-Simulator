@@ -26,6 +26,10 @@ Because I love pointless things! Might even add some *cute* audio when the (il)l
 
 Please, I am all ears and open to collaboration!
 
+## And now some serious stuff, like the technologies used on this project :computer: 
+
+HTML, CSS, SASS, JavaScript, npm, Gulp.
+
 
 
 
