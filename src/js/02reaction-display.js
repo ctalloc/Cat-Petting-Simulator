@@ -32,6 +32,14 @@ function angryReaction() {
   setTimeout(stopAnimation, 1000)
 }
 
+function ottReaction() {
+  catReactDisplay.classList.add('reactNow')
+  let src = './assets/images/cat-reactions/butwhy.jpg';
+  catReactDisplay.src = src;
+  setTimeout(clearDisplay, 500);
+  setTimeout(stopAnimation, 1000)
+}
+
 function clearDisplay() {
   catReactDisplay.src = '';
 }
