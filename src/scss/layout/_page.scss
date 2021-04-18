@@ -137,3 +137,22 @@
   font-size: 32px;
   border: 2px solid $lilac;
 }
+
+.reactNow {
+  animation: reactBoop 1s;
+}
+
+@keyframes reactBoop {
+  from {
+    position: absolute;
+    transform: scale(1.4);
+    left: 30%;
+    top: 30%
+  }
+  to {
+    position: static;
+    transform: scale(1);
+    left: 0;
+    top: 0
+  }
+}

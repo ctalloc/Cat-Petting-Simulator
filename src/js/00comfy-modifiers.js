@@ -70,13 +70,3 @@ function handleTummyButton() {
 headBtnElement.addEventListener('click', handleHeadButton);
 backBtnElement.addEventListener('click', handleBackButton);
 tummyBtnElement.addEventListener('click', handleTummyButton);
-
-function goodReaction() {
-  let src = './assets/images/cat-reactions/happycat.jpg';
-  catReactDisplay.src = src;
-  setTimeout(clearDisplay, 500);
-}
-
-function clearDisplay () {
-  catReactDisplay.src = '';
-}
