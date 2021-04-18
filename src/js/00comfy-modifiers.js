@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 'use strict';
 
-let comfyCounterElement = 0;
+let comfyCounterElement =31;
 
 const headBtnElement = document.querySelector('.jsHeadBtn');
 const backBtnElement = document.querySelector('.jsBackBtn');
@@ -14,16 +14,16 @@ function getRandomInt(min, max) {
 }
 
 function handleBackButton() {
-  if (comfyCounterElement > 18) {
+  if (comfyCounterElement > 51) {
     comfyCounterElement -= 1;
-  } else if (comfyCounterElement <= 18 && comfyCounterElement >= 5) {
+  } else if (comfyCounterElement <= 51 && comfyCounterElement >= 31) {
     const result = getRandomInt(1, 10);
     if (result <= 5) {
       comfyCounterElement;
     } else if (result > 5 && result <= 7) {
       comfyCounterElement += 1;
     } else if (result > 8) {
-      comfyCounterElement += 1;
+      comfyCounterElement += 2;
     }
   } else {
     comfyCounterElement += 1;
@@ -42,7 +42,7 @@ function handleHeadButton() {
 }
 
 function handleTummyButton() {
-  if (comfyCounterElement >= 25) {
+  if (comfyCounterElement >= 76) {
     const result = getRandomInt(1, 10);
     if (result <= 1) {
       const result = getRandomInt(-20, 20);
@@ -56,12 +56,12 @@ function handleTummyButton() {
     } else if (result >= 9) {
       comfyCounterElement += 1;
     }
-  } else if (comfyCounterElement >= 15) {
+  } else if (comfyCounterElement >= 51) {
     comfyCounterElement += 1;
-  } else if (comfyCounterElement >= 5) {
-    comfyCounterElement -= 1;
-  } else if (comfyCounterElement < 5) {
+  } else if (comfyCounterElement >= 31) {
     comfyCounterElement -= 3;
+  } else if (comfyCounterElement < 31) {
+    comfyCounterElement -= 5;
   }
   console.log(comfyCounterElement);
 }
