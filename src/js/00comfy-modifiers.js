@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 'use strict';
 
-let comfyCounterElement =31;
+let comfyCounterElement = 31;
 
 const headBtnElement = document.querySelector('.jsHeadBtn');
 const backBtnElement = document.querySelector('.jsBackBtn');
@@ -63,6 +63,8 @@ function handleTummyButton() {
   } else if (comfyCounterElement < 31) {
     comfyCounterElement -= 5;
   }
+  handleComfyImg();
+  handleComfyTxt();
   console.log(comfyCounterElement);
 }
 
